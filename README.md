@@ -22,3 +22,4 @@ Naudojimo atvejų idėjos:
 4. `Password` = ... (15+ simbolių)
 5. Spaudžiame `Verify your account` ir įrodome, kad esame žmogus.
 6. `[ Create account ]`
+
